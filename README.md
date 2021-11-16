@@ -3,11 +3,15 @@ Machine Learning Final Project
  
 In this project we use a dataset with over 150,000 entries based on real booking reservations made from various hotels in New York City. Througout the project we use various models and methods in order to predict discount codes.
  
-## Our work is integrated of three parts: 
+## Our work has four parts: 
 I. Data Processing, preparation and analysis.
-II. Classification : Naive Bayes, GaussianNB, XGBOOST, Decision Tree, Random Forest,  Clustering, Neural Network
+ 
+II. Classification : Naive Bayes, GaussianNB, XGBOOST, Decision Tree, Random Forest,  Clustering, Neural Network.
+ 
 III. Clustering : Dendogram ward, complete, average and signal.
+ 
 IV. Active Learning : First we look for a good estimator (oracle) for our semi-supervised data.
+ 
  
 ## Some highlights of our work
  
